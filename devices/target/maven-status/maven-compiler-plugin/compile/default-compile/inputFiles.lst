@@ -1,0 +1,10 @@
+/home/atous-security/Documentos/projects/oneglobe/devices/src/main/java/com/devrodts/devices/Main.java
+/home/atous-security/Documentos/projects/oneglobe/devices/src/main/java/com/devrodts/devices/application/dto/DeviceDTO.java
+/home/atous-security/Documentos/projects/oneglobe/devices/src/main/java/com/devrodts/devices/application/service/DeviceService.java
+/home/atous-security/Documentos/projects/oneglobe/devices/src/main/java/com/devrodts/devices/domain/entity/Device.java
+/home/atous-security/Documentos/projects/oneglobe/devices/src/main/java/com/devrodts/devices/domain/repository/DeviceRepository.java
+/home/atous-security/Documentos/projects/oneglobe/devices/src/main/java/com/devrodts/devices/infrastructure/config/GlobalExceptionHandler.java
+/home/atous-security/Documentos/projects/oneglobe/devices/src/main/java/com/devrodts/devices/infrastructure/config/OpenAPIConfig.java
+/home/atous-security/Documentos/projects/oneglobe/devices/src/main/java/com/devrodts/devices/infrastructure/exception/DeviceNotFoundException.java
+/home/atous-security/Documentos/projects/oneglobe/devices/src/main/java/com/devrodts/devices/infrastructure/exception/DuplicateDeviceException.java
+/home/atous-security/Documentos/projects/oneglobe/devices/src/main/java/com/devrodts/devices/infrastructure/http/controller/DeviceController.java

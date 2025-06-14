@@ -1,0 +1,4 @@
+com/devrodts/devices/infrastructure/config/OpenAPIConfig.class
+com/devrodts/devices/infrastructure/http/controller/DeviceController.class
+com/devrodts/devices/infrastructure/exception/DeviceNotFoundException.class
+com/devrodts/devices/Main.class

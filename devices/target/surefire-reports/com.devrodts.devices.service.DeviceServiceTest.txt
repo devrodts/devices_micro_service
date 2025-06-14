@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.devrodts.devices.service.DeviceServiceTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.075 s - in com.devrodts.devices.service.DeviceServiceTest

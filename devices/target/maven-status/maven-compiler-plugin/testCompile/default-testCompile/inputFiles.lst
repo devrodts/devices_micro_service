@@ -1,0 +1,5 @@
+/home/atous-security/Documentos/projects/oneglobe/devices/src/test/java/com/devrodts/devices/BaseIntegrationTest.java
+/home/atous-security/Documentos/projects/oneglobe/devices/src/test/java/com/devrodts/devices/controller/DeviceControllerTest.java
+/home/atous-security/Documentos/projects/oneglobe/devices/src/test/java/com/devrodts/devices/domain/DeviceTest.java
+/home/atous-security/Documentos/projects/oneglobe/devices/src/test/java/com/devrodts/devices/repository/DeviceRepositoryTest.java
+/home/atous-security/Documentos/projects/oneglobe/devices/src/test/java/com/devrodts/devices/service/DeviceServiceTest.java
