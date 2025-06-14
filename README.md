@@ -19,10 +19,6 @@
 9. Observability & Operations
 10. Security Considerations
 11. Packaging & Deployment
-12. Continuous Integration
-13. Contributing Guidelines
-14. Licensing & Contact
-
 ---
 
 ## 1  Introduction
@@ -166,7 +162,3 @@ Refer to Swagger for full schemas & examples.
   ENTRYPOINT ["java","-jar","/app.jar"]
   ```
 * **Kubernetes**: Provide Helm chart in `/deploy/helm/devices` (TODO).
-
-## 12  Continuous Integration
-* GitHub Actions workflow `ci.yml` (planned) will cache Maven layers, run tests, generate coverage, and build Docker image.
-
